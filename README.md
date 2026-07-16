@@ -158,7 +158,9 @@ Undo hanya membatalkan proses terakhir yang memiliki manifest.
 
 ## Video Demo
 
-<video src="Demo%20aplikasi.mp4" controls width="100%"></video>
+Untuk melihat demo jalannya aplikasi, silakan klik tautan di bawah ini (video akan diputar menggunakan media player bawaan GitHub):
+
+▶️ **[Tonton Video Demo Aplikasi](Demo%20aplikasi.mp4)**
 
 ## Lisensi
 
