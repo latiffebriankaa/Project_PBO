@@ -156,6 +156,10 @@ Saat proses nyata dijalankan, aplikasi akan membuat:
 
 Undo hanya membatalkan proses terakhir yang memiliki manifest.
 
+## video demo
+
+<video src="Demo aplikasi.mp4"></video>
+
 ## Lisensi
 
 Project ini dibuat untuk keperluan pembelajaran dan sebagai Essay UAS PBO.
