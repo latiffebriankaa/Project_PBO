@@ -2,6 +2,13 @@
 
 Smart File Organizer & Renamer untuk UAS Pemrograman Berorientasi Objek (PBO).
 
+## di kerjakan oleh :
+
+- Latip 20240040036
+- Muhammad Bagus Dwi Erlangga 20240040290
+- Rassya Ramadhani Priadi 20230040142
+- Mariana Kalilago 20240040225
+
 ## Latar Belakang & Inspirasi
 
 Aplikasi ini terinspirasi dari kebiasaan saya (dan banyak pengguna komputer) yang sering kali menumpuk berbagai macam file di folder `Downloads` atau `Desktop` hingga menjadi sangat berantakan dan menyulitkan pencarian file penting di kemudian hari. Dengan BeresFile, semua file tersebut dapat diorganisasikan secara otomatis hanya dengan satu klik.
@@ -42,24 +49,26 @@ Banyak folder berisi file campur aduk seperti PDF tugas, screenshot, file instal
 ```text
 Project_PBO/
 ├── config.py
+├── Demo aplikasi.mp4
 ├── main.py
 ├── requirements.txt
 ├── README.md
-├── DOKUMENTASI_SI_RAPI_OTOMATIS.md
 ├── models/
 │   ├── __init__.py
 │   └── file_item.py
 ├── rules/
 │   ├── __init__.py
-│   ├── rule_engine.py
 │   ├── rule_ekstensi.py
-│   └── rule_ai.py
+│   ├── rule_ai.py
+│   └── rule_engine.py
 ├── services/
 │   ├── __init__.py
 │   └── file_organizer.py
+├── tests/
+│   └── test_organizer.py
 └── utils/
-	├── __init__.py
-	└── logger.py
+    ├── __init__.py
+    └── logger.py
 ```
 
 ## Teknologi
@@ -149,4 +158,4 @@ Undo hanya membatalkan proses terakhir yang memiliki manifest.
 
 ## Lisensi
 
-Project ini dibuat untuk keperluan pembelajaran dan presentasi UAS PBO.
+Project ini dibuat untuk keperluan pembelajaran dan sebagai Essay UAS PBO.

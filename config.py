@@ -7,7 +7,7 @@ SCAN_DIR = str(Path.home() / "Downloads")
 DRY_RUN = True
 ENABLE_AI = True
 
-# gemini vision 
+# gemini vision masukan api key
 GEMINI_API_KEY = ""
 GEMINI_MODEL = "gemini-1.5-flash"
 
