@@ -156,9 +156,9 @@ Saat proses nyata dijalankan, aplikasi akan membuat:
 
 Undo hanya membatalkan proses terakhir yang memiliki manifest.
 
-## video demo
+## Video Demo
 
-<video src="Demo aplikasi.mp4"></video>
+<video src="Demo%20aplikasi.mp4" controls width="100%"></video>
 
 ## Lisensi
 
